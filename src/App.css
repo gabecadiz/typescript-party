@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.list-img {
+  border-radius: 1000px;
+  height: 80px;
+  width: 80px;
+}
+
+.AddToList {
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  margin: 0.3rem 0rem;
+}
